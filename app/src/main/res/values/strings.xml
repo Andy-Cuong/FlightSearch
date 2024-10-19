@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flight Search</string>
+    <string name="depart">Depart</string>
+    <string name="arrive">Arrive</string>
+    <string name="favorite">Favorite</string>
+    <string name="not_favorite">Not favorite</string>
+    <string name="press_to_choose">Press to choose</string>
+    <string name="no_flight">No flight. Try searching for a different airport</string>
+    <string name="airport_name_or_iata_code">Airport name or IATA code</string>
+    <string name="search_for_airport">Search for airport</string>
+    <string name="favorite_routes">Favorite routes</string>
+    <string name="flights_from">Flights from %1$s</string>
+    <string name="no_favorite">No favorite. Try adding a flight to your favorites</string>
+    <string name="no_suggestion">No suggestion</string>
+</resources>
